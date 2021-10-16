@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blogdefotsec.github.io/</id>
     <title>Defot&apos;s BLOG</title>
-    <updated>2021-10-16T12:58:33.280Z</updated>
+    <updated>2021-10-16T14:00:16.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blogdefotsec.github.io/"/>
     <link rel="self" href="https://blogdefotsec.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://blogdefotsec.github.io/images/avatar.png</logo>
     <icon>https://blogdefotsec.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Defot&apos;s BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[Defot的网络安全知识库]]></title>
+        <id>https://blogdefotsec.github.io/post/defot-de-wang-luo-an-quan-zhi-shi-ku/</id>
+        <link href="https://blogdefotsec.github.io/post/defot-de-wang-luo-an-quan-zhi-shi-ku/">
+        </link>
+        <updated>2021-10-16T13:54:39.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="defot的网络安全知识库">Defot的网络安全知识库</h1>
+<p>由塑料菜鸡维护的个人知识Wiki，仅包括网络安全相关的知识词条。知识库更加适合知识的查找和复习。关联本博客的“知识库的维护周期”标签，在学习的同时将学到的知识更新到知识库中。当然了，由于流程是先写维护周期，再同步到知识库的，所以博客文章中没有词条的直接链接。</p>
+<p>知识库传送门：<a href="https://www.mywiki.cn/defotsec/index.php/%E9%A6%96%E9%A1%B5">首页 - Defot的网络安全知识库 - 个人维基 (mywiki.cn)</a></p>
+<p>和普通的Wiki一样用就好。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[知识库的维护周期20211016ADD01]]></title>
         <id>https://blogdefotsec.github.io/post/zhi-shi-ku-de-wei-hu-zhou-qi-20211016add01/</id>
