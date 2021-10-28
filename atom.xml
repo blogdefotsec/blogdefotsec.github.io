@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blogdefotsec.github.io/</id>
     <title>Defot&apos;s BLOG</title>
-    <updated>2021-10-21T08:14:47.807Z</updated>
+    <updated>2021-10-28T03:19:12.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blogdefotsec.github.io/"/>
     <link rel="self" href="https://blogdefotsec.github.io/atom.xml"/>
@@ -10,6 +10,31 @@
     <logo>https://blogdefotsec.github.io/images/avatar.png</logo>
     <icon>https://blogdefotsec.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Defot&apos;s BLOG</rights>
+    <entry>
+        <title type="html"><![CDATA[知识库的更新周期20211028A01]]></title>
+        <id>https://blogdefotsec.github.io/post/zhi-shi-ku-de-geng-xin-zhou-qi-20211028a01/</id>
+        <link href="https://blogdefotsec.github.io/post/zhi-shi-ku-de-geng-xin-zhou-qi-20211028a01/">
+        </link>
+        <updated>2021-10-28T03:18:27.000Z</updated>
+        <content type="html"><![CDATA[<p>1.新增页面<a href="https://www.mywiki.cn/defotsec/index.php/%E6%97%A0%E7%BA%BF%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95">无线渗透测试</a><br>
+2.新增页面<a href="https://www.mywiki.cn/defotsec/index.php/WLAN%E5%B8%A7">WLAN帧</a><br>
+PS 这个WLAN帧真的是查了我好久……查yue了。<br>
+关于WLAN帧页面，如果有补充可以直接在wiki下面评论，或者联系我。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[知识库的维护周期20211027A01]]></title>
+        <id>https://blogdefotsec.github.io/post/zhi-shi-ku-de-wei-hu-zhou-qi-20211027a01/</id>
+        <link href="https://blogdefotsec.github.io/post/zhi-shi-ku-de-wei-hu-zhou-qi-20211027a01/">
+        </link>
+        <updated>2021-10-28T03:17:29.000Z</updated>
+        <content type="html"><![CDATA[<p>不再赘述完整内容<br>
+1.更新了<a href="https://www.mywiki.cn/defotsec/index.php/HTTP%E5%8D%8F%E8%AE%AE">HTTP协议</a>中请求头Referer、X-Forward-For以及微信NetType的信息。<br>
+2.更新了<a href="https://www.mywiki.cn/defotsec/index.php/Burp_Suit">Burp Suit</a>中对于请求方法更改、X-Forward-For请求头的信息，添加了Intruder工具的若干用法<br>
+3.添加了<a href="https://www.mywiki.cn/defotsec/index.php/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8">网络安全</a>词条<br>
+4.添加了<a href="https://www.mywiki.cn/defotsec/index.php/%E6%8C%82%E9%A9%AC">挂马</a>词条。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Defot的网络安全知识库]]></title>
         <id>https://blogdefotsec.github.io/post/defot-de-wang-luo-an-quan-zhi-shi-ku/</id>
